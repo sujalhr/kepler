@@ -1,0 +1,6 @@
+*.log
+venv/
+.vscode
+.env
+.streamlit
+.ipynb_checkpoints
